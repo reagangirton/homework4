@@ -1,0 +1,5 @@
+# don't check in node_modules
+node_modules/
+
+# don't check in mac ds_store
+.DS_Store
